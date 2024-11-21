@@ -19,4 +19,4 @@ Hệ thống IoT được thiết kế để giúp cho người dùng kiểm so�
 
 
 # Sơ đồ khối:
-![IOT_diagram]()
+![IOT_diagram](https://github.com/namluntihon199/IoT/blob/main/image/image.png)
