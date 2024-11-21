@@ -16,4 +16,4 @@ Hệ thống IoT được thiết kế để giúp cho người dùng kiểm so�
 * Cảm biến ánh sáng.
 
 # Sơ đồ khối:
-![IOT_diagram](https://github.com/namluntihon199/IoT/blob/main/image/image.png)
+![IOT_diagram](https://github.com/namluntihon199/IoT/blob/main/image.png)
