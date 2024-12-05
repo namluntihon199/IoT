@@ -15,5 +15,13 @@ Hệ thống IoT được thiết kế để giúp cho người dùng kiểm so�
 * Động cơ Servo SG90. (cuối kỳ)
 * Cảm biến ánh sáng. (cuối kỳ)
 
+# Flow nodeRED:
+![image](https://github.com/user-attachments/assets/10c5c4ef-d3c8-4191-83e6-9ff3d6b2ec63)
+
+# Server hivemq:
+![image](https://github.com/user-attachments/assets/4ef10913-2f26-4f04-908f-e00c940dade8)
+
+
+
 # Sơ đồ khối:
 ![IOT_diagram](https://github.com/namluntihon199/IoT/blob/main/image.png)
