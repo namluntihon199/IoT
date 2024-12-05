@@ -10,9 +10,9 @@ Hệ thống IoT được thiết kế để giúp cho người dùng kiểm so�
 * Đèn Led.
 * Cảm biến mưa. (cuối kỳ)
 * Cảm biến độ ẩm nhiệt độ DHT11.
-* Động cơ quạt DC. 
+* Còi. 
 * Module đo nồng độ bụi pm2.5. (cuối kỳ)
-* Động cơ Servo SG90.
+* Động cơ Servo SG90. (cuối kỳ)
 * Cảm biến ánh sáng. (cuối kỳ)
 
 # Sơ đồ khối:
