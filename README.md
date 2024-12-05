@@ -8,12 +8,12 @@ Hệ thống IoT được thiết kế để giúp cho người dùng kiểm so�
 
 * ESP32 Doitdevkit v1 : gửi , nhận và xử lý tín hiệu.
 * Đèn Led.
-* Cảm biến mưa.
+* Cảm biến mưa. (cuối kỳ)
 * Cảm biến độ ẩm nhiệt độ DHT11.
-* Động cơ quạt DC.
-* Module đo nồng độ bụi pm2.5.
+* Động cơ quạt DC. 
+* Module đo nồng độ bụi pm2.5. (cuối kỳ)
 * Động cơ Servo SG90.
-* Cảm biến ánh sáng.
+* Cảm biến ánh sáng. (cuối kỳ)
 
 # Sơ đồ khối:
 ![IOT_diagram](https://github.com/namluntihon199/IoT/blob/main/image.png)
